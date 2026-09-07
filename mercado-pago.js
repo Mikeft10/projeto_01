@@ -1,2 +1,3 @@
 const m = 'hello  world' 
-console.log(m)
+const p = 'pagamento'
+console.log(m, p)
