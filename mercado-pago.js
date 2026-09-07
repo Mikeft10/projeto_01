@@ -1,3 +1,4 @@
 const m = 'hello  world' 
 const d = "devedor"
-console.log(m)
+const p = 'pagamento'
+console.log(m, p)
